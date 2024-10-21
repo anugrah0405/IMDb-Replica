@@ -24,7 +24,7 @@ Here in this  project i am using the OMDB API for fetching movie data. http://ww
 
 ## Setup and Run Instructions ( Modify this as necessary )
 1. **Clone the repository:**
-  git clone https://github.com/rahulS9587/BungeeTech-Assignment.git
+  git clone https://github.com/anugrah0405/IMDb-Replica.git
   
 
 2. **Navigate to the project directory:**
